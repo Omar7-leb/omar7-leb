@@ -1,4 +1,3 @@
-![logo](https://github.com/Omar7-leb/omar7-leb/blob/main/bg.png)
 <h1 align="center">Hi there👋, I'm Omar Allawa</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 
